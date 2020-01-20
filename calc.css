@@ -1,0 +1,48 @@
+.gloire{
+	height: 50px;
+	width: 60px;
+background:#4c6e42;
+}
+table{
+	width: 280px;
+	margin: 50px auto;
+	background:black;
+	border:none;
+	border-radius: 10px;
+	padding: 0px 20px 20px;
+}
+.heading{
+	color: white;
+	font-size: 130%;
+	text-align: center;
+
+}
+#one{
+	width: 285px;
+	height: 50px;
+	font-size: 210%;
+	text-align: right;
+	border: none;
+	border-radius: 5px 5px 0px 0px;
+	box-shadow: 2px 2px 2px black;
+	color: black;
+
+}
+
+input[type=button] {
+	height: 60px;
+	width: 50px;
+	font-size: 130%;
+	color: black;
+	background:white;
+	margin: 1px;
+	border-radius: 8px;
+	border: none;
+}
+::placeholder {
+  color: black;
+}
+.boy{
+	visibility: visible;
+}
+
